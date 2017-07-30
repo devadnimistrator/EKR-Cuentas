@@ -1,0 +1,23 @@
+.DS_Store
+
+application/cache/*
+!application/cache/index.html
+!application/cache/.htaccess
+
+application/logs/*
+!application/logs/index.html
+!application/logs/.htaccess
+
+application/config/database.php
+
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/*
+
+uploads/*
+!uploads/index.html
+
+temp/*
+!temp/index.html
+application/config/database.php
